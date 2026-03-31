@@ -13,11 +13,21 @@ This project presents a multimodal deep learning framework that integrates chest
 - Machine Learning
 - Data Analytics
 
-## 🖥️ Application Features
-- Web interface for user interaction
-- Upload chest X-ray images
-- Input clinical data
-- Predict pneumonia using ML model
+## 🖥️ Application Workflow
+1. Web interface for user interaction
+2. User uploads chest X-ray image
+3. User enters clinical data
+4. Data is processed using multimodal model
+5. Prediction result is displayed
+
+## 📁 Project Structure
+- src/ → Core ML logic
+- utils/ → Data processing scripts
+- templates/ → HTML pages
+- static/ → Styling files
+
+## ⚠️ Note
+Dataset is not included due to size constraints.
 
 ## Author
 Banda Sri Vaishnavi Yadav 
