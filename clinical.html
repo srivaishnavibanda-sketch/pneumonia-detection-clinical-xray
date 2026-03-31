@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Clinical Prediction</title>
+</head>
+
+<body>
+
+<h2>Upload Chest X-ray + Clinical Data</h2>
+
+<form action="/predict" method="post" enctype="multipart/form-data">
+
+<input type="file" name="image" required><br><br>
+
+Age: <input type="number" name="age" required><br>
+
+Gender:
+<select name="gender">
+<option value="M">Male</option>
+<option value="F">Female</option>
+</select><br>
+
+Fever: <input type="number" name="fever" required><br>
+SpO2: <input type="number" name="spo2" required><br>
+WBC: <input type="number" name="wbc" required><br>
+Urinalysis: <input type="number" name="urinalysis" required><br><br>
+
+<button type="submit">Predict</button>
+
+</form>
+
+</body>
+</html>
