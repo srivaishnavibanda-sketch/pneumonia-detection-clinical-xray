@@ -20,4 +20,4 @@ This project presents a multimodal deep learning framework that integrates chest
 - Predict pneumonia using ML model
 
 ## Author
-Srivaishnavi Banda
+Banda Sri Vaishnavi Yadav 
