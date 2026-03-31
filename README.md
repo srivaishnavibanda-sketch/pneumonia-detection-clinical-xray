@@ -8,7 +8,7 @@ This project presents a multimodal deep learning framework that integrates chest
 - Improves prediction accuracy
 - Healthcare-focused AI solution
 
-## Technologies Used
+## Technologies Used 
 - Python
 - Machine Learning
 - Data Analytics 
