@@ -11,7 +11,7 @@ This project presents a multimodal deep learning framework that integrates chest
 ## Technologies Used
 - Python
 - Machine Learning
-- Data Analytics
+- Data Analytics 
 
 ## 🖥️ Application Workflow
 1. Web interface for user interaction
