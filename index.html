@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pneumonia Detection AI</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+<div class="container">
+
+<h1>🩺 Pneumonia Detection AI</h1>
+
+<form action="/predict" method="post" enctype="multipart/form-data">
+<input type="file" name="image" required>
+<button type="submit">Upload & Detect</button>
+</form>
+
+<br>
+<a href="/clinical">Clinical Data Mode →</a>
+
+</div>
+</body>
+</html>
