@@ -1,2 +1,17 @@
-# pneumonia-detection-clinical-xray
-A multimodal deep learning framework for pneumonia detection that integrates chest X-ray images with synthetic clinical data (age, gender, vital signs, and laboratory results) to improve diagnostic accuracy and reliability.
+# Pneumonia Detection using Clinical Data and Chest X-ray Images
+
+## Overview
+This project presents a multimodal deep learning framework that integrates chest X-ray images with synthetic clinical data to improve pneumonia detection accuracy.
+
+## Features
+- Combines image and clinical data
+- Improves prediction accuracy
+- Healthcare-focused AI solution
+
+## Technologies Used
+- Python
+- Machine Learning
+- Data Analytics
+
+## Author
+Srivaishnavi Banda
