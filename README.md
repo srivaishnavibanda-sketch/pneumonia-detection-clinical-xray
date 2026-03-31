@@ -25,6 +25,7 @@ This project presents a multimodal deep learning framework that integrates chest
 - utils/ → Data processing scripts
 - templates/ → HTML pages
 - static/ → Styling files
+- models/ → model training logic
 
 ## ⚠️ Note
 Dataset is not included due to size constraints.
